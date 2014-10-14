@@ -1,4 +1,4 @@
 Homicide Map
 
 
-[map]: http://imgur.com/NYjbQYY
+![map]: http://imgur.com/NYjbQYY
