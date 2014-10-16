@@ -5,7 +5,7 @@ Since 1980
 
 1. 1050 Babies named Phoebe in 2013
 2. Ranked 300 in 2012
-3. 928,385 Total babies
+3. 928,385 Total baby names 
 4. 16,648 total Phoebes since 1980
 5. 2008
 6. Highest Phoebe increase per 100k: 14/100k in 1994 to 23/100k in 1995
