@@ -19,9 +19,17 @@ https://www.google.com/fusiontables/embedviz?q=select+col3+from+1VWyvsMU7nM73VkN
 
 
 
-Counties that have at least 1 Aircraft, Rotary Wing (most expensive item): 
-Pinal, Chilton, Desoto, Oklahoma, Saint Louis, Santa Barbara, Brevard 
+The most expensive item is "AIRCRAFT, ROTARY WING" at an 18000000 Acquisition Cost.
+There are multiple counties that have this item, but the acquisition cost is not the same for all of the items that fall under this item name. I'm not sure why exeactly the same item name would have a different acquisition cost (could be models, administrative error, year, etc), BUT all the counties that had at least one item named AIRCRAFT, ROTARY WING are listed in the table below. HOWEVER, BREVARD is the only county has the item that is both labeled AIRCRAFT,ROTARY and also has the highest Acquisition Cost. 
+
 
 
 
 <a href="http://imgur.com/03WRKQj"><img src="http://i.imgur.com/03WRKQj.png" title="source: imgur.com" /></a>
+
+
+
+
+
+
+
