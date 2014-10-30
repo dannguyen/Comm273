@@ -30,6 +30,10 @@ There are multiple counties that have this item, but the acquisition cost is not
 
 
 
+#Question 3
+
+
+
 
 
 
