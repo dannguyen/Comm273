@@ -11,9 +11,15 @@ https://www.google.com/fusiontables/embedviz?q=select+col3+from+1VWyvsMU7nM73VkN
 
 
 
+
+
+
+
 Question 2
 
-Counties that have at least 1 Aircraft, Rotary Wing (most expensive item)
+
+
+Counties that have at least 1 Aircraft, Rotary Wing (most expensive item): 
 Pinal, Chilton, Desoto, Oklahoma, Saint Louis, Santa Barbara, Brevard 
 
 
